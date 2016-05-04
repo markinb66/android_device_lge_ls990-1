@@ -1,3 +1,6 @@
+# DU Updater
+ro.du.updater=ls990
+
 # Radio
 rild.libargs=-d /dev/smd0
 rild.libpath=/vendor/lib/libril-qc-qmi-1.so
