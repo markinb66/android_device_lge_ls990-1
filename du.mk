@@ -21,7 +21,7 @@ $(call inherit-product, device/lge/ls990/full_ls990.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common DU stuff.
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
 
 # Set those variables here to overwrite the inherited values.
