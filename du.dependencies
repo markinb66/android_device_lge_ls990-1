@@ -4,6 +4,11 @@
     "target_path": "device/lge/g3-common",
     "branch":      "m-caf"
   },
+    {
+    "repository":  "DirtyUnicorns/android_external_connectivity",
+    "target_path": "external/connectivity",
+    "branch":      "m-caf"
+  },
   {
     "repository":  "DirtyUnicorns/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
