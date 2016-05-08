@@ -15,6 +15,11 @@
     "branch":      "m-caf"
  },
  {
+    "repository":  "DirtyUnicorns/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio",
+    "branch":      "m-caf"
+ },
+ {
     "repository":  "DirtyUnicorns/android_packages_apps_Snap",
     "target_path": "packages/apps/Snap",
     "branch":      "m-caf"
