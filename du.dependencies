@@ -8,11 +8,6 @@
     "target_path": "external/connectivity",
     "branch":      "m-caf"
  },
-  {
-    "repository":  "CyanogenMod/android_kernel_lge_g3",
-    "target_path": "kernel/lge/g3",
-    "branch":      "cm-13.0"
-  },
  {
     "repository":  "DirtyUnicorns/android_packages_apps_Snap",
     "target_path": "packages/apps/Snap",
