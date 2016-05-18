@@ -59,3 +59,5 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # inherit from the proprietary version
 -include vendor/lge/ls990/BoardConfigVendor.mk
+
+-include vendor/bliss/config/sm.mk
