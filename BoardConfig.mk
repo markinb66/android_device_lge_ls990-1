@@ -25,7 +25,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/ls990/bluetooth
 BOARD_HAVE_BLUETOOTH_BCM := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := ls990_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_ls990_defconfig
 TARGET_REQUIRES_BUMP := true
 
 # Partitions
@@ -59,3 +59,5 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # inherit from the proprietary version
 -include vendor/lge/ls990/BoardConfigVendor.mk
+
+-include vendor/bliss/config/sm.mk

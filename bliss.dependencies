@@ -1,0 +1,14 @@
+[
+  {
+   "remote": "BlissRoms-Devices",
+    "repository": "android_device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "Eliminater74/NebulaKernel",
+    "target_path": "kernel/lge/g3",
+    "revision": "nebula-mmfinal"
+  }
+]
