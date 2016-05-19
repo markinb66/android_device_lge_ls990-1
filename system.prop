@@ -7,9 +7,11 @@ ro.cdma.home.operator.numeric=310120
 ro.cdma.home.operator.alpha=Sprint
 telephony.lteOnCdmaDevice=1
 telephony.lte.cdma.device=1
-ro.telephony.default_network=8
+ro.telephony.default_network=10
 ro.telephony.ril_class=LS990RIL
-ro.ril.def.preferred.network=8
+ro.ril.def.preferred.network=10
+ro.gsm.data_retry_config=default_randomization=2000,max_retries=infinite,1000,1000,80000,125000,485000,905000
+ro.gsm.2nd_data_retry_config=max_retries=1,15000
 ril.subscription.types=NV,RUIM
 persist.radio.no_wait_for_card=1
 keyguard.no_require_sim=true
