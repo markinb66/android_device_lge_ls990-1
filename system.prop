@@ -8,6 +8,7 @@ ro.cdma.home.operator.alpha=Sprint
 telephony.lteOnCdmaDevice=1
 telephony.lte.cdma.device=1
 ro.config.lte=true
+ro.use_data_netmgrd=true
 ro.telephony.default_network=10
 ro.telephony.ril_class=LS990RIL
 ro.ril.def.preferred.network=10
