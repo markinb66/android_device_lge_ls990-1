@@ -1,17 +1,5 @@
 [
  {
-    "remote": "th",
-    "repository": "android_device_lge_g3-common",
-    "target_path": "device/lge/g3-common",
-    "revision": "mm"
-  },
-  {
-    "remote": "th",
-    "repository": "vendor_lge",
-    "target_path": "vendor/lge",
-    "revision": "mm"
-  },
- {
     "repository":  "DirtyUnicorns/android_external_connectivity",
     "target_path": "external/connectivity",
     "branch":      "m-caf"
